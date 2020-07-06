@@ -12,6 +12,9 @@ _This site is for making a prototype dispatching software using HTML, CSS, JavaS
 * Will update features as the prototyping progresses
 
 ## Process
+##### Sunday 7/5/2020
+_Started working on the divison page. Started making a basic layout._
+
 ##### Friday 7/3/2020
 _First files created and uploaded to github. Have a lot to relearn._
 
